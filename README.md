@@ -7,7 +7,7 @@ A Web API project that can generate random SuperSoccer teams of 5 player for a g
 
 - 🧠 Clean Architecture (Domain, Application, Infrastructure, WebApi, Tests)
 - 🌐 External APIs:
-  - [PokeAPI](https://pokeapi.co) – Pokémon stats
+  - [PokeAPI](https://pokeapi.co) – Pokémon characters
   - [SWAPI](https://swapi.dev) – Star Wars characters
 - 🔧 Team generation with configurable lineups
 - 🤖 Positions: Goalie, Defender, Attacker
