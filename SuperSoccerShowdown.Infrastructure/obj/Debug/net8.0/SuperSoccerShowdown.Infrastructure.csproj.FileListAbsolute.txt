@@ -1,0 +1,17 @@
+C:\Users\anare\source\repos\SuperSoccerShowdown\SuperSoccerShowdown.Infrastructure\obj\Debug\net8.0\SuperSoccerShowdown.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\anare\source\repos\SuperSoccerShowdown\SuperSoccerShowdown.Infrastructure\obj\Debug\net8.0\SuperSoccerShowdown.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anare\source\repos\SuperSoccerShowdown\SuperSoccerShowdown.Infrastructure\obj\Debug\net8.0\SuperSoccerShowdown.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\anare\source\repos\SuperSoccerShowdown\SuperSoccerShowdown.Infrastructure\obj\Debug\net8.0\SuperSoccerShowdown.Infrastructure.AssemblyInfo.cs
+C:\Users\anare\source\repos\SuperSoccerShowdown\SuperSoccerShowdown.Infrastructure\obj\Debug\net8.0\SuperSoccerShowdown.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\anare\source\repos\SuperSoccerShowdown\SuperSoccerShowdown.Infrastructure\bin\Debug\net8.0\SuperSoccerShowdown.Infrastructure.deps.json
+C:\Users\anare\source\repos\SuperSoccerShowdown\SuperSoccerShowdown.Infrastructure\bin\Debug\net8.0\SuperSoccerShowdown.Infrastructure.dll
+C:\Users\anare\source\repos\SuperSoccerShowdown\SuperSoccerShowdown.Infrastructure\bin\Debug\net8.0\SuperSoccerShowdown.Infrastructure.pdb
+C:\Users\anare\source\repos\SuperSoccerShowdown\SuperSoccerShowdown.Infrastructure\bin\Debug\net8.0\SuperSoccerShowdown.Application.dll
+C:\Users\anare\source\repos\SuperSoccerShowdown\SuperSoccerShowdown.Infrastructure\bin\Debug\net8.0\SuperSoccerShowdown.Domain.dll
+C:\Users\anare\source\repos\SuperSoccerShowdown\SuperSoccerShowdown.Infrastructure\bin\Debug\net8.0\SuperSoccerShowdown.Application.pdb
+C:\Users\anare\source\repos\SuperSoccerShowdown\SuperSoccerShowdown.Infrastructure\bin\Debug\net8.0\SuperSoccerShowdown.Domain.pdb
+C:\Users\anare\source\repos\SuperSoccerShowdown\SuperSoccerShowdown.Infrastructure\obj\Debug\net8.0\SuperSoc.730AA54A.Up2Date
+C:\Users\anare\source\repos\SuperSoccerShowdown\SuperSoccerShowdown.Infrastructure\obj\Debug\net8.0\SuperSoccerShowdown.Infrastructure.dll
+C:\Users\anare\source\repos\SuperSoccerShowdown\SuperSoccerShowdown.Infrastructure\obj\Debug\net8.0\refint\SuperSoccerShowdown.Infrastructure.dll
+C:\Users\anare\source\repos\SuperSoccerShowdown\SuperSoccerShowdown.Infrastructure\obj\Debug\net8.0\SuperSoccerShowdown.Infrastructure.pdb
+C:\Users\anare\source\repos\SuperSoccerShowdown\SuperSoccerShowdown.Infrastructure\obj\Debug\net8.0\ref\SuperSoccerShowdown.Infrastructure.dll

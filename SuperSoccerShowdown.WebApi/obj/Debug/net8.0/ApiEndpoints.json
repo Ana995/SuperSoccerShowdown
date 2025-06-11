@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "SuperSoccerShowdown.WebApi.Controllers.TeamsController",
+    "Method": "GenerateTeam",
+    "RelativePath": "api/Teams/generate",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "universe",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "defenders",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "attackers",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SuperSoccerShowdown.WebApi.Controllers.TeamsController",
+    "Method": "SimulateMatch",
+    "RelativePath": "api/Teams/simulate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "teams",
+        "Type": "System.Collections.Generic.List\u00601[[SuperSoccerShowdown.Domain.Entities.Team, SuperSoccerShowdown.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

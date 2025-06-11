@@ -1,0 +1,312 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.WebApi\\SuperSoccerShowdown.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown.Domain\\SuperSoccerShowdown.Domain\\SuperSoccerShowdown.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown.Domain\\SuperSoccerShowdown.Domain\\SuperSoccerShowdown.Domain.csproj",
+        "projectName": "SuperSoccerShowdown.Domain",
+        "projectPath": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown.Domain\\SuperSoccerShowdown.Domain\\SuperSoccerShowdown.Domain.csproj",
+        "packagesPath": "C:\\Users\\anare\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown.Domain\\SuperSoccerShowdown.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\anare\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Application\\SuperSoccerShowdown.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Application\\SuperSoccerShowdown.Application.csproj",
+        "projectName": "SuperSoccerShowdown.Application",
+        "projectPath": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Application\\SuperSoccerShowdown.Application.csproj",
+        "packagesPath": "C:\\Users\\anare\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\anare\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown.Domain\\SuperSoccerShowdown.Domain\\SuperSoccerShowdown.Domain.csproj": {
+                "projectPath": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown.Domain\\SuperSoccerShowdown.Domain\\SuperSoccerShowdown.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Infrastructure\\SuperSoccerShowdown.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Infrastructure\\SuperSoccerShowdown.Infrastructure.csproj",
+        "projectName": "SuperSoccerShowdown.Infrastructure",
+        "projectPath": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Infrastructure\\SuperSoccerShowdown.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\anare\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\anare\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Application\\SuperSoccerShowdown.Application.csproj": {
+                "projectPath": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Application\\SuperSoccerShowdown.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Caching.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[8.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.WebApi\\SuperSoccerShowdown.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.WebApi\\SuperSoccerShowdown.WebApi.csproj",
+        "projectName": "SuperSoccerShowdown.WebApi",
+        "projectPath": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.WebApi\\SuperSoccerShowdown.WebApi.csproj",
+        "packagesPath": "C:\\Users\\anare\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\anare\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Application\\SuperSoccerShowdown.Application.csproj": {
+                "projectPath": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Application\\SuperSoccerShowdown.Application.csproj"
+              },
+              "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Infrastructure\\SuperSoccerShowdown.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Infrastructure\\SuperSoccerShowdown.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[8.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

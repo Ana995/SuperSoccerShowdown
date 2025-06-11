@@ -1,0 +1,12 @@
+C:\Users\anare\source\repos\SuperSoccerShowdown.Domain\SuperSoccerShowdown.Domain\bin\Debug\net8.0\SuperSoccerShowdown.Domain.deps.json
+C:\Users\anare\source\repos\SuperSoccerShowdown.Domain\SuperSoccerShowdown.Domain\bin\Debug\net8.0\SuperSoccerShowdown.Domain.dll
+C:\Users\anare\source\repos\SuperSoccerShowdown.Domain\SuperSoccerShowdown.Domain\bin\Debug\net8.0\SuperSoccerShowdown.Domain.pdb
+C:\Users\anare\source\repos\SuperSoccerShowdown.Domain\SuperSoccerShowdown.Domain\obj\Debug\net8.0\SuperSoccerShowdown.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anare\source\repos\SuperSoccerShowdown.Domain\SuperSoccerShowdown.Domain\obj\Debug\net8.0\SuperSoccerShowdown.Domain.AssemblyInfoInputs.cache
+C:\Users\anare\source\repos\SuperSoccerShowdown.Domain\SuperSoccerShowdown.Domain\obj\Debug\net8.0\SuperSoccerShowdown.Domain.AssemblyInfo.cs
+C:\Users\anare\source\repos\SuperSoccerShowdown.Domain\SuperSoccerShowdown.Domain\obj\Debug\net8.0\SuperSoccerShowdown.Domain.csproj.CoreCompileInputs.cache
+C:\Users\anare\source\repos\SuperSoccerShowdown.Domain\SuperSoccerShowdown.Domain\obj\Debug\net8.0\SuperSoccerShowdown.Domain.dll
+C:\Users\anare\source\repos\SuperSoccerShowdown.Domain\SuperSoccerShowdown.Domain\obj\Debug\net8.0\refint\SuperSoccerShowdown.Domain.dll
+C:\Users\anare\source\repos\SuperSoccerShowdown.Domain\SuperSoccerShowdown.Domain\obj\Debug\net8.0\SuperSoccerShowdown.Domain.pdb
+C:\Users\anare\source\repos\SuperSoccerShowdown.Domain\SuperSoccerShowdown.Domain\obj\Debug\net8.0\ref\SuperSoccerShowdown.Domain.dll
+C:\Users\anare\source\repos\SuperSoccerShowdown.Domain\SuperSoccerShowdown.Domain\obj\Debug\net8.0\SuperSoccerShowdown.Domain.csproj.AssemblyReference.cache

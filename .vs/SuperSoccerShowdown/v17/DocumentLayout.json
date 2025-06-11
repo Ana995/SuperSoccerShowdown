@@ -1,0 +1,421 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E20110-ACD7-4FD1-AFCC-D1D54F103285}|SuperSoccerShowdown.WebApi\\SuperSoccerShowdown.WebApi.csproj|c:\\users\\anare\\source\\repos\\supersoccershowdown\\supersoccershowdown.webapi\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E20110-ACD7-4FD1-AFCC-D1D54F103285}|SuperSoccerShowdown.WebApi\\SuperSoccerShowdown.WebApi.csproj|solutionrelative:supersoccershowdown.webapi\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5C1247-BA86-4A53-A917-97FCD88D3EC5}|SuperSoccerShowdown.Tests\\SuperSoccerShowdown.Tests.csproj|c:\\users\\anare\\source\\repos\\supersoccershowdown\\supersoccershowdown.tests\\teamgeneratorservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5C1247-BA86-4A53-A917-97FCD88D3EC5}|SuperSoccerShowdown.Tests\\SuperSoccerShowdown.Tests.csproj|solutionrelative:supersoccershowdown.tests\\teamgeneratorservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C00621-2174-4D2B-AADE-ED5E51EC05DF}|SuperSoccerShowdown.Infrastructure\\SuperSoccerShowdown.Infrastructure.csproj|c:\\users\\anare\\source\\repos\\supersoccershowdown\\supersoccershowdown.infrastructure\\pokeapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C00621-2174-4D2B-AADE-ED5E51EC05DF}|SuperSoccerShowdown.Infrastructure\\SuperSoccerShowdown.Infrastructure.csproj|solutionrelative:supersoccershowdown.infrastructure\\pokeapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E20110-ACD7-4FD1-AFCC-D1D54F103285}|SuperSoccerShowdown.WebApi\\SuperSoccerShowdown.WebApi.csproj|c:\\users\\anare\\source\\repos\\supersoccershowdown\\supersoccershowdown.webapi\\supersoccershowdown.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C4E20110-ACD7-4FD1-AFCC-D1D54F103285}|SuperSoccerShowdown.WebApi\\SuperSoccerShowdown.WebApi.csproj|solutionrelative:supersoccershowdown.webapi\\supersoccershowdown.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E20110-ACD7-4FD1-AFCC-D1D54F103285}|SuperSoccerShowdown.WebApi\\SuperSoccerShowdown.WebApi.csproj|c:\\users\\anare\\source\\repos\\supersoccershowdown\\supersoccershowdown.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E20110-ACD7-4FD1-AFCC-D1D54F103285}|SuperSoccerShowdown.WebApi\\SuperSoccerShowdown.WebApi.csproj|solutionrelative:supersoccershowdown.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E20110-ACD7-4FD1-AFCC-D1D54F103285}|SuperSoccerShowdown.WebApi\\SuperSoccerShowdown.WebApi.csproj|c:\\users\\anare\\source\\repos\\supersoccershowdown\\supersoccershowdown.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4E20110-ACD7-4FD1-AFCC-D1D54F103285}|SuperSoccerShowdown.WebApi\\SuperSoccerShowdown.WebApi.csproj|solutionrelative:supersoccershowdown.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C00621-2174-4D2B-AADE-ED5E51EC05DF}|SuperSoccerShowdown.Infrastructure\\SuperSoccerShowdown.Infrastructure.csproj|c:\\users\\anare\\source\\repos\\supersoccershowdown\\supersoccershowdown.infrastructure\\universeapiclientfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C00621-2174-4D2B-AADE-ED5E51EC05DF}|SuperSoccerShowdown.Infrastructure\\SuperSoccerShowdown.Infrastructure.csproj|solutionrelative:supersoccershowdown.infrastructure\\universeapiclientfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C00621-2174-4D2B-AADE-ED5E51EC05DF}|SuperSoccerShowdown.Infrastructure\\SuperSoccerShowdown.Infrastructure.csproj|c:\\users\\anare\\source\\repos\\supersoccershowdown\\supersoccershowdown.infrastructure\\swapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C00621-2174-4D2B-AADE-ED5E51EC05DF}|SuperSoccerShowdown.Infrastructure\\SuperSoccerShowdown.Infrastructure.csproj|solutionrelative:supersoccershowdown.infrastructure\\swapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F88BE992-BF93-4AB0-9E52-8C753637B4D7}|SuperSoccerShowdown.Domain\\SuperSoccerShowdown.Domain.csproj|c:\\users\\anare\\source\\repos\\supersoccershowdown\\supersoccershowdown.domain\\enums\\positiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F88BE992-BF93-4AB0-9E52-8C753637B4D7}|SuperSoccerShowdown.Domain\\SuperSoccerShowdown.Domain.csproj|solutionrelative:supersoccershowdown.domain\\enums\\positiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5C1247-BA86-4A53-A917-97FCD88D3EC5}|SuperSoccerShowdown.Tests\\SuperSoccerShowdown.Tests.csproj|c:\\users\\anare\\source\\repos\\supersoccershowdown\\supersoccershowdown.tests\\teamcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5C1247-BA86-4A53-A917-97FCD88D3EC5}|SuperSoccerShowdown.Tests\\SuperSoccerShowdown.Tests.csproj|solutionrelative:supersoccershowdown.tests\\teamcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F88BE992-BF93-4AB0-9E52-8C753637B4D7}|SuperSoccerShowdown.Domain\\SuperSoccerShowdown.Domain.csproj|c:\\users\\anare\\source\\repos\\supersoccershowdown\\supersoccershowdown.domain\\entities\\swapicharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F88BE992-BF93-4AB0-9E52-8C753637B4D7}|SuperSoccerShowdown.Domain\\SuperSoccerShowdown.Domain.csproj|solutionrelative:supersoccershowdown.domain\\entities\\swapicharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F88BE992-BF93-4AB0-9E52-8C753637B4D7}|SuperSoccerShowdown.Domain\\SuperSoccerShowdown.Domain.csproj|c:\\users\\anare\\source\\repos\\supersoccershowdown\\supersoccershowdown.domain\\entities\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F88BE992-BF93-4AB0-9E52-8C753637B4D7}|SuperSoccerShowdown.Domain\\SuperSoccerShowdown.Domain.csproj|solutionrelative:supersoccershowdown.domain\\entities\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F88BE992-BF93-4AB0-9E52-8C753637B4D7}|SuperSoccerShowdown.Domain\\SuperSoccerShowdown.Domain.csproj|c:\\users\\anare\\source\\repos\\supersoccershowdown\\supersoccershowdown.domain\\entities\\pokeapicharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F88BE992-BF93-4AB0-9E52-8C753637B4D7}|SuperSoccerShowdown.Domain\\SuperSoccerShowdown.Domain.csproj|solutionrelative:supersoccershowdown.domain\\entities\\pokeapicharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F88BE992-BF93-4AB0-9E52-8C753637B4D7}|SuperSoccerShowdown.Domain\\SuperSoccerShowdown.Domain.csproj|c:\\users\\anare\\source\\repos\\supersoccershowdown\\supersoccershowdown.domain\\entities\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F88BE992-BF93-4AB0-9E52-8C753637B4D7}|SuperSoccerShowdown.Domain\\SuperSoccerShowdown.Domain.csproj|solutionrelative:supersoccershowdown.domain\\entities\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F88BE992-BF93-4AB0-9E52-8C753637B4D7}|SuperSoccerShowdown.Domain\\SuperSoccerShowdown.Domain.csproj|c:\\users\\anare\\source\\repos\\supersoccershowdown\\supersoccershowdown.domain\\entities\\matchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F88BE992-BF93-4AB0-9E52-8C753637B4D7}|SuperSoccerShowdown.Domain\\SuperSoccerShowdown.Domain.csproj|solutionrelative:supersoccershowdown.domain\\entities\\matchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F88BE992-BF93-4AB0-9E52-8C753637B4D7}|SuperSoccerShowdown.Domain\\SuperSoccerShowdown.Domain.csproj|c:\\users\\anare\\source\\repos\\supersoccershowdown\\supersoccershowdown.domain\\entities\\matchhighlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F88BE992-BF93-4AB0-9E52-8C753637B4D7}|SuperSoccerShowdown.Domain\\SuperSoccerShowdown.Domain.csproj|solutionrelative:supersoccershowdown.domain\\entities\\matchhighlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738DF2F6-3ACC-415C-A025-B49DE6DF3400}|SuperSoccerShowdown.Application\\SuperSoccerShowdown.Application.csproj|c:\\users\\anare\\source\\repos\\supersoccershowdown\\supersoccershowdown.application\\strategies\\defaultteamformationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{738DF2F6-3ACC-415C-A025-B49DE6DF3400}|SuperSoccerShowdown.Application\\SuperSoccerShowdown.Application.csproj|solutionrelative:supersoccershowdown.application\\strategies\\defaultteamformationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738DF2F6-3ACC-415C-A025-B49DE6DF3400}|SuperSoccerShowdown.Application\\SuperSoccerShowdown.Application.csproj|c:\\users\\anare\\source\\repos\\supersoccershowdown\\supersoccershowdown.application\\simulator\\matchsimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{738DF2F6-3ACC-415C-A025-B49DE6DF3400}|SuperSoccerShowdown.Application\\SuperSoccerShowdown.Application.csproj|solutionrelative:supersoccershowdown.application\\simulator\\matchsimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738DF2F6-3ACC-415C-A025-B49DE6DF3400}|SuperSoccerShowdown.Application\\SuperSoccerShowdown.Application.csproj|c:\\users\\anare\\source\\repos\\supersoccershowdown\\supersoccershowdown.application\\services\\teamgeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{738DF2F6-3ACC-415C-A025-B49DE6DF3400}|SuperSoccerShowdown.Application\\SuperSoccerShowdown.Application.csproj|solutionrelative:supersoccershowdown.application\\services\\teamgeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738DF2F6-3ACC-415C-A025-B49DE6DF3400}|SuperSoccerShowdown.Application\\SuperSoccerShowdown.Application.csproj|c:\\users\\anare\\source\\repos\\supersoccershowdown\\supersoccershowdown.application\\interfaces\\iuniverseapiclientfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{738DF2F6-3ACC-415C-A025-B49DE6DF3400}|SuperSoccerShowdown.Application\\SuperSoccerShowdown.Application.csproj|solutionrelative:supersoccershowdown.application\\interfaces\\iuniverseapiclientfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738DF2F6-3ACC-415C-A025-B49DE6DF3400}|SuperSoccerShowdown.Application\\SuperSoccerShowdown.Application.csproj|c:\\users\\anare\\source\\repos\\supersoccershowdown\\supersoccershowdown.application\\interfaces\\iuniverseapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{738DF2F6-3ACC-415C-A025-B49DE6DF3400}|SuperSoccerShowdown.Application\\SuperSoccerShowdown.Application.csproj|solutionrelative:supersoccershowdown.application\\interfaces\\iuniverseapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738DF2F6-3ACC-415C-A025-B49DE6DF3400}|SuperSoccerShowdown.Application\\SuperSoccerShowdown.Application.csproj|c:\\users\\anare\\source\\repos\\supersoccershowdown\\supersoccershowdown.application\\interfaces\\iteamformationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{738DF2F6-3ACC-415C-A025-B49DE6DF3400}|SuperSoccerShowdown.Application\\SuperSoccerShowdown.Application.csproj|solutionrelative:supersoccershowdown.application\\interfaces\\iteamformationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738DF2F6-3ACC-415C-A025-B49DE6DF3400}|SuperSoccerShowdown.Application\\SuperSoccerShowdown.Application.csproj|c:\\users\\anare\\source\\repos\\supersoccershowdown\\supersoccershowdown.application\\utils\\powerranges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{738DF2F6-3ACC-415C-A025-B49DE6DF3400}|SuperSoccerShowdown.Application\\SuperSoccerShowdown.Application.csproj|solutionrelative:supersoccershowdown.application\\utils\\powerranges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F88BE992-BF93-4AB0-9E52-8C753637B4D7}|SuperSoccerShowdown.Domain\\SuperSoccerShowdown.Domain.csproj|c:\\users\\anare\\source\\repos\\supersoccershowdown\\supersoccershowdown.domain\\supersoccershowdown.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F88BE992-BF93-4AB0-9E52-8C753637B4D7}|SuperSoccerShowdown.Domain\\SuperSoccerShowdown.Domain.csproj|solutionrelative:supersoccershowdown.domain\\supersoccershowdown.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2102939616:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1204970601:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1627928588:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeamGeneratorServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Tests\\TeamGeneratorServiceTests.cs",
+              "RelativeDocumentMoniker": "SuperSoccerShowdown.Tests\\TeamGeneratorServiceTests.cs",
+              "ToolTip": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Tests\\TeamGeneratorServiceTests.cs",
+              "RelativeToolTip": "SuperSoccerShowdown.Tests\\TeamGeneratorServiceTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:36:36.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PokeApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Infrastructure\\PokeApiClient.cs",
+              "RelativeDocumentMoniker": "SuperSoccerShowdown.Infrastructure\\PokeApiClient.cs",
+              "ToolTip": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Infrastructure\\PokeApiClient.cs",
+              "RelativeToolTip": "SuperSoccerShowdown.Infrastructure\\PokeApiClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T14:04:45.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SuperSoccerShowdown.WebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.WebApi\\SuperSoccerShowdown.WebApi.csproj",
+              "RelativeDocumentMoniker": "SuperSoccerShowdown.WebApi\\SuperSoccerShowdown.WebApi.csproj",
+              "ToolTip": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.WebApi\\SuperSoccerShowdown.WebApi.csproj",
+              "RelativeToolTip": "SuperSoccerShowdown.WebApi\\SuperSoccerShowdown.WebApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-09T17:08:08.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "SuperSoccerShowdown.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.WebApi\\Program.cs",
+              "RelativeToolTip": "SuperSoccerShowdown.WebApi\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T16:21:11.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "SuperSoccerShowdown.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.WebApi\\appsettings.json",
+              "RelativeToolTip": "SuperSoccerShowdown.WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-06T14:36:05.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeamsController.cs",
+              "DocumentMoniker": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.WebApi\\Controllers\\TeamsController.cs",
+              "RelativeDocumentMoniker": "SuperSoccerShowdown.WebApi\\Controllers\\TeamsController.cs",
+              "ToolTip": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.WebApi\\Controllers\\TeamsController.cs",
+              "RelativeToolTip": "SuperSoccerShowdown.WebApi\\Controllers\\TeamsController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADUAAACKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T14:05:13.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UniverseApiClientFactory.cs",
+              "DocumentMoniker": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Infrastructure\\UniverseApiClientFactory.cs",
+              "RelativeDocumentMoniker": "SuperSoccerShowdown.Infrastructure\\UniverseApiClientFactory.cs",
+              "ToolTip": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Infrastructure\\UniverseApiClientFactory.cs",
+              "RelativeToolTip": "SuperSoccerShowdown.Infrastructure\\UniverseApiClientFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T09:25:43.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SwapiClient.cs",
+              "DocumentMoniker": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Infrastructure\\SwapiClient.cs",
+              "RelativeDocumentMoniker": "SuperSoccerShowdown.Infrastructure\\SwapiClient.cs",
+              "ToolTip": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Infrastructure\\SwapiClient.cs",
+              "RelativeToolTip": "SuperSoccerShowdown.Infrastructure\\SwapiClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T14:04:13.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PositionType.cs",
+              "DocumentMoniker": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Domain\\Enums\\PositionType.cs",
+              "RelativeDocumentMoniker": "SuperSoccerShowdown.Domain\\Enums\\PositionType.cs",
+              "ToolTip": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Domain\\Enums\\PositionType.cs",
+              "RelativeToolTip": "SuperSoccerShowdown.Domain\\Enums\\PositionType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T13:59:50.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TeamControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Tests\\TeamControllerTests.cs",
+              "RelativeDocumentMoniker": "SuperSoccerShowdown.Tests\\TeamControllerTests.cs",
+              "ToolTip": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Tests\\TeamControllerTests.cs",
+              "RelativeToolTip": "SuperSoccerShowdown.Tests\\TeamControllerTests.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T20:00:09.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SwapiCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Domain\\Entities\\SwapiCharacter.cs",
+              "RelativeDocumentMoniker": "SuperSoccerShowdown.Domain\\Entities\\SwapiCharacter.cs",
+              "ToolTip": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Domain\\Entities\\SwapiCharacter.cs",
+              "RelativeToolTip": "SuperSoccerShowdown.Domain\\Entities\\SwapiCharacter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T14:33:35.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Domain\\Entities\\Team.cs",
+              "RelativeDocumentMoniker": "SuperSoccerShowdown.Domain\\Entities\\Team.cs",
+              "ToolTip": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Domain\\Entities\\Team.cs",
+              "RelativeToolTip": "SuperSoccerShowdown.Domain\\Entities\\Team.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T13:59:21.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PokeApiCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Domain\\Entities\\PokeApiCharacter.cs",
+              "RelativeDocumentMoniker": "SuperSoccerShowdown.Domain\\Entities\\PokeApiCharacter.cs",
+              "ToolTip": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Domain\\Entities\\PokeApiCharacter.cs",
+              "RelativeToolTip": "SuperSoccerShowdown.Domain\\Entities\\PokeApiCharacter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T14:33:18.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Domain\\Entities\\Player.cs",
+              "RelativeDocumentMoniker": "SuperSoccerShowdown.Domain\\Entities\\Player.cs",
+              "ToolTip": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Domain\\Entities\\Player.cs",
+              "RelativeToolTip": "SuperSoccerShowdown.Domain\\Entities\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T13:59:09.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MatchResult.cs",
+              "DocumentMoniker": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Domain\\Entities\\MatchResult.cs",
+              "RelativeDocumentMoniker": "SuperSoccerShowdown.Domain\\Entities\\MatchResult.cs",
+              "ToolTip": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Domain\\Entities\\MatchResult.cs",
+              "RelativeToolTip": "SuperSoccerShowdown.Domain\\Entities\\MatchResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T14:00:22.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MatchHighlight.cs",
+              "DocumentMoniker": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Domain\\Entities\\MatchHighlight.cs",
+              "RelativeDocumentMoniker": "SuperSoccerShowdown.Domain\\Entities\\MatchHighlight.cs",
+              "ToolTip": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Domain\\Entities\\MatchHighlight.cs",
+              "RelativeToolTip": "SuperSoccerShowdown.Domain\\Entities\\MatchHighlight.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T14:00:04.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DefaultTeamFormationStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Application\\Strategies\\DefaultTeamFormationStrategy.cs",
+              "RelativeDocumentMoniker": "SuperSoccerShowdown.Application\\Strategies\\DefaultTeamFormationStrategy.cs",
+              "ToolTip": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Application\\Strategies\\DefaultTeamFormationStrategy.cs",
+              "RelativeToolTip": "SuperSoccerShowdown.Application\\Strategies\\DefaultTeamFormationStrategy.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAoAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T14:02:54.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MatchSimulator.cs",
+              "DocumentMoniker": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Application\\Simulator\\MatchSimulator.cs",
+              "RelativeDocumentMoniker": "SuperSoccerShowdown.Application\\Simulator\\MatchSimulator.cs",
+              "ToolTip": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Application\\Simulator\\MatchSimulator.cs",
+              "RelativeToolTip": "SuperSoccerShowdown.Application\\Simulator\\MatchSimulator.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T14:22:08.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TeamGeneratorService.cs",
+              "DocumentMoniker": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Application\\Services\\TeamGeneratorService.cs",
+              "RelativeDocumentMoniker": "SuperSoccerShowdown.Application\\Services\\TeamGeneratorService.cs",
+              "ToolTip": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Application\\Services\\TeamGeneratorService.cs",
+              "RelativeToolTip": "SuperSoccerShowdown.Application\\Services\\TeamGeneratorService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:35:05.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IUniverseApiClientFactory.cs",
+              "DocumentMoniker": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Application\\Interfaces\\IUniverseApiClientFactory.cs",
+              "RelativeDocumentMoniker": "SuperSoccerShowdown.Application\\Interfaces\\IUniverseApiClientFactory.cs",
+              "ToolTip": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Application\\Interfaces\\IUniverseApiClientFactory.cs",
+              "RelativeToolTip": "SuperSoccerShowdown.Application\\Interfaces\\IUniverseApiClientFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T09:21:17.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUniverseApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Application\\Interfaces\\IUniverseApiClient.cs",
+              "RelativeDocumentMoniker": "SuperSoccerShowdown.Application\\Interfaces\\IUniverseApiClient.cs",
+              "ToolTip": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Application\\Interfaces\\IUniverseApiClient.cs",
+              "RelativeToolTip": "SuperSoccerShowdown.Application\\Interfaces\\IUniverseApiClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:34:58.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ITeamFormationStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Application\\Interfaces\\ITeamFormationStrategy.cs",
+              "RelativeDocumentMoniker": "SuperSoccerShowdown.Application\\Interfaces\\ITeamFormationStrategy.cs",
+              "ToolTip": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Application\\Interfaces\\ITeamFormationStrategy.cs",
+              "RelativeToolTip": "SuperSoccerShowdown.Application\\Interfaces\\ITeamFormationStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:34:55.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PowerRanges.cs",
+              "DocumentMoniker": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Application\\Utils\\PowerRanges.cs",
+              "RelativeDocumentMoniker": "SuperSoccerShowdown.Application\\Utils\\PowerRanges.cs",
+              "ToolTip": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Application\\Utils\\PowerRanges.cs",
+              "RelativeToolTip": "SuperSoccerShowdown.Application\\Utils\\PowerRanges.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T14:03:14.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SuperSoccerShowdown.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Domain\\SuperSoccerShowdown.Domain.csproj",
+              "RelativeDocumentMoniker": "SuperSoccerShowdown.Domain\\SuperSoccerShowdown.Domain.csproj",
+              "ToolTip": "C:\\Users\\anare\\source\\repos\\SuperSoccerShowdown\\SuperSoccerShowdown.Domain\\SuperSoccerShowdown.Domain.csproj",
+              "RelativeToolTip": "SuperSoccerShowdown.Domain\\SuperSoccerShowdown.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-06T13:58:33.696Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

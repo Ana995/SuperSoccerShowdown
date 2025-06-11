@@ -1,0 +1,15 @@
+C:\Users\anare\source\repos\SuperSoccerShowdown\SuperSoccerShowdown.Application\obj\Debug\net8.0\SuperSoccerShowdown.Application.csproj.AssemblyReference.cache
+C:\Users\anare\source\repos\SuperSoccerShowdown\SuperSoccerShowdown.Application\obj\Debug\net8.0\SuperSoccerShowdown.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anare\source\repos\SuperSoccerShowdown\SuperSoccerShowdown.Application\obj\Debug\net8.0\SuperSoccerShowdown.Application.AssemblyInfoInputs.cache
+C:\Users\anare\source\repos\SuperSoccerShowdown\SuperSoccerShowdown.Application\obj\Debug\net8.0\SuperSoccerShowdown.Application.AssemblyInfo.cs
+C:\Users\anare\source\repos\SuperSoccerShowdown\SuperSoccerShowdown.Application\obj\Debug\net8.0\SuperSoccerShowdown.Application.csproj.CoreCompileInputs.cache
+C:\Users\anare\source\repos\SuperSoccerShowdown\SuperSoccerShowdown.Application\bin\Debug\net8.0\SuperSoccerShowdown.Application.deps.json
+C:\Users\anare\source\repos\SuperSoccerShowdown\SuperSoccerShowdown.Application\bin\Debug\net8.0\SuperSoccerShowdown.Application.dll
+C:\Users\anare\source\repos\SuperSoccerShowdown\SuperSoccerShowdown.Application\bin\Debug\net8.0\SuperSoccerShowdown.Application.pdb
+C:\Users\anare\source\repos\SuperSoccerShowdown\SuperSoccerShowdown.Application\bin\Debug\net8.0\SuperSoccerShowdown.Domain.dll
+C:\Users\anare\source\repos\SuperSoccerShowdown\SuperSoccerShowdown.Application\bin\Debug\net8.0\SuperSoccerShowdown.Domain.pdb
+C:\Users\anare\source\repos\SuperSoccerShowdown\SuperSoccerShowdown.Application\obj\Debug\net8.0\SuperSoc.16965DAC.Up2Date
+C:\Users\anare\source\repos\SuperSoccerShowdown\SuperSoccerShowdown.Application\obj\Debug\net8.0\SuperSoccerShowdown.Application.dll
+C:\Users\anare\source\repos\SuperSoccerShowdown\SuperSoccerShowdown.Application\obj\Debug\net8.0\refint\SuperSoccerShowdown.Application.dll
+C:\Users\anare\source\repos\SuperSoccerShowdown\SuperSoccerShowdown.Application\obj\Debug\net8.0\SuperSoccerShowdown.Application.pdb
+C:\Users\anare\source\repos\SuperSoccerShowdown\SuperSoccerShowdown.Application\obj\Debug\net8.0\ref\SuperSoccerShowdown.Application.dll
