@@ -55,8 +55,8 @@ Sample request:
       { "name": "Charizard", "heightCm": 170, "weightKg": 90, "position": "Goalie", "soccerPower": 95 },
       { "name": "Blastoise", "heightCm": 160, "weightKg": 100, "position": "Defence", "soccerPower": 85 },
       { "name": "Pikachu", "heightCm": 80, "weightKg": 60, "position": "Defence", "soccerPower": 70 },
-      { "name": "Squirtle", "heightCm": 65, "weightKg": 40, "position": "Offence", "soccerPower": 88 },
-      { "name": "Jigglypuff", "heightCm": 60, "weightKg": 30, "position": "Offence", "soccerPower": 80 }
+      { "name": "Squirtle", "heightCm": 65, "weightKg": 40, "position": "Attacker", "soccerPower": 88 },
+      { "name": "Jigglypuff", "heightCm": 60, "weightKg": 30, "position": "Attacker", "soccerPower": 80 }
     ]
   },
   {
@@ -65,8 +65,8 @@ Sample request:
       { "name": "Darth Vader", "heightCm": 200, "weightKg": 130, "position": "Goalie", "soccerPower": 90 },
       { "name": "Chewbacca", "heightCm": 230, "weightKg": 140, "position": "Defence", "soccerPower": 85 },
       { "name": "Luke Skywalker", "heightCm": 175, "weightKg": 70, "position": "Defence", "soccerPower": 72 },
-      { "name": "Han Solo", "heightCm": 180, "weightKg": 80, "position": "Offence", "soccerPower": 82 },
-      { "name": "Leia Organa", "heightCm": 165, "weightKg": 50, "position": "Offence", "soccerPower": 75 }
+      { "name": "Han Solo", "heightCm": 180, "weightKg": 80, "position": "Attacker", "soccerPower": 82 },
+      { "name": "Leia Organa", "heightCm": 165, "weightKg": 50, "position": "Attacker", "soccerPower": 75 }
     ]
   }
 ]
